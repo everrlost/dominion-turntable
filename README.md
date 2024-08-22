@@ -1,6 +1,6 @@
 # dominion-turntable
 turntable for board game dominion!
-![IMG_8227](https://github.com/user-attachments/assets/554ff724-32a6-449e-840c-621b8af6d1c4)
+![IMG_3944](https://github.com/user-attachments/assets/fa268424-9585-4dc8-a2b7-4c9f9dffcb27)
 
 
 I made this turntable for my favorite board game, Dominion by Donald X. Vaccarino.
